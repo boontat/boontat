@@ -1,4 +1,5 @@
 ### Hi there 👋
+Technology enthusiastic. Love to see cool technology that has wow vibes :astonished: 
 
 <!--
 **boontat/boontat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
