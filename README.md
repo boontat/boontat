@@ -1,6 +1,12 @@
 ### Hi there 👋
 Technology enthusiastic. Love to see cool technology that has wow vibes :astonished: 
 
+🔭 I’m currently working on Payment Gateway Integration
+
+### Common Use Language
+- PHP
+- Node.js
+
 <!--
 **boontat/boontat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
